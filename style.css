@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(1, 1, 17);
+
+}
+.main{
+ text-align: center;
+}
+.box{
+    width: 300px;
+    height: 130px;
+    /* box-sizing: border-box; */
+    border:40px solid rgb(61, 65, 61);
+    background-color: rgb(3, 20, 37);
+    display: inline-block ;
+    margin-top: 100px;
+
+    color: white;
+}
+#time, #text{
+ background-color:rgb(3, 20, 37) ;
+}
